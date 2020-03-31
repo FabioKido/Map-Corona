@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  height: auto;
+}
+
+html,body {
+  min-height: 100%;
+}
+
+body{
+  background: #f3f3f3;
+  font: 62.5% Verdana;
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  width: 100%;
+  height: 50px;
+  align-items: center;
+}
+
+.header .link {
+  margin-left: 10px;
+  color: #B8D335;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.nav {
+  display: none;
+}
