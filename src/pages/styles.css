@@ -106,17 +106,19 @@ p {
 }
 
 .graphic-wld {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   margin-bottom: 100px;
 }
 
-.history {
-  margin-bottom: 100px;
+.graphic-wld .Line {
+  width: 100%;
+  margin-top: 30px;
 }
 
-.prevent {
-  margin-bottom: 100px;
-}
-
-.type-vs {
+.text {
   margin-bottom: 100px;
 }

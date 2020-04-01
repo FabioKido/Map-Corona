@@ -1,5 +1,6 @@
 import React from 'react';
 import { Helmet } from "react-helmet";
+import { Line } from 'react-chartjs-2';
 
 import Layout from '../components/Layout';
 
@@ -707,6 +708,54 @@ const PT_BR = () => {
 	    },
 	  ];
 
+	let line = {
+	  labels: ['Jan 22', 'Fev 15', 'Fev 27', 'Mar 10', 'Mar 30'],
+	  datasets: [
+	    {
+	      label: 'Casos',
+				fill: false,
+	      lineTension: 0.1,
+	      backgroundColor: 'rgba(75,192,192,0.4)',
+	      borderColor: '#B8D335',
+	      borderCapStyle: 'butt',
+	      borderDash: [],
+	      borderDashOffset: 0.0,
+	      borderJoinStyle: 'miter',
+	      pointBorderColor: '#B8D335',
+	      pointBackgroundColor: '#fff',
+	      pointBorderWidth: 1,
+	      pointHoverRadius: 5,
+	      pointHoverBackgroundColor: '#B8D335',
+	      pointHoverBorderColor: '#B8D335',
+	      pointHoverBorderWidth: 2,
+	      pointRadius: 2,
+	      pointHitRadius: 10,
+	      data: [580, 69197, 83112, 118948, 784138],
+	    },
+			{
+	      label: 'Mortes',
+				fill: false,
+	      lineTension: 0.1,
+	      backgroundColor: 'rgba(75,192,192,0.4)',
+	      borderColor: 'rgba(75,192,192,0.4)',
+	      borderCapStyle: 'butt',
+	      borderDash: [],
+	      borderDashOffset: 0.0,
+	      borderJoinStyle: 'miter',
+	      pointBorderColor: 'rgba(75,192,192,0.4)',
+	      pointBackgroundColor: '#fff',
+	      pointBorderWidth: 1,
+	      pointHoverRadius: 5,
+	      pointHoverBackgroundColor: 'rgba(75,192,192,0.4)',
+	      pointHoverBorderColor: 'rgba(75,192,192,0.4)',
+	      pointHoverBorderWidth: 2,
+	      pointRadius: 2,
+	      pointHitRadius: 10,
+	      data: [17, 1669, 2858, 4296, 37773],
+	    },
+	  ],
+	};
+
 	return (
 		<Layout page={'Coronavirus - Sobre'}>
 			<Helmet>
@@ -720,7 +769,7 @@ const PT_BR = () => {
 				<div className='cont'>
 					<div className='conts'>
 						<h2>Casos</h2>
-						<h3>720.132</h3>
+						<h3>858,377</h3>
 					</div>
 					<div className='conts'>
 						<h2>Hoje</h2>
@@ -768,15 +817,18 @@ const PT_BR = () => {
 					</table>
 				</div>
 				<div className='graphic-wld'>
-					<h1>Casos nos ultimos 30 dias</h1>
+					<h1>Casos confirmados em cada mês</h1>
+					<div className='Line'>
+						<Line data={line} />
+					</div>
 				</div>
-				<div className='history'>
+				<div className='text'>
 					<h1>História</h1>
 					<p>
 						A <b>Organização Mundial da Saúde (OMS)</b> declarou, em 30 de janeiro de 2020, que o surto da doença causada pelo novo <b>coronavírus</b> (<b><i>COVID-19</i></b>) constitui uma Emergência de Saúde Pública de Importância Internacional – o mais alto nível de alerta da Organização, conforme previsto no Regulamento Sanitário Internacional. <br/><br/> Em 11 de março de 2020, a COVID-19 foi caracterizada pela OMS como uma pandemia.
 					</p>
 				</div>
-				<div className='prevent'>
+				<div className='text'>
 					<h1>Medidas de Prevenção</h1>
 					<img src='' alt='' />
 					<p>
@@ -786,7 +838,7 @@ const PT_BR = () => {
 						Para os serviços públicos e privados, é indicado que disponibilizem locais para que os trabalhadores lavem as mãos com frequência, álcool em gel 70% e toalhas de papel descartáveis. Há ainda a orientação sobre o uso de máscaras e outros Equipamentos de Proteção Individual (EPI). <br/><br/> O orgãos de Saúde recomenda que a utilização de equipamento de proteção seja feita apenas por pessoas doentes, casos confirmados da doença, contatos domiciliares e profissionais de saúde. Para áreas com transmissão local da doença, é recomendado que idosos e doentes crônicos evitem contato social como idas ao cinema, shoppings, viagens e locais com aglomeração de pessoas.
 					</p>
 				</div>
-				<div className='type-vs'>
+				<div className='text'>
 					<h1>Os Coronavirus - (<b>CoV</b>)</h1>
 					<p>
 						Os <b>coronavírus</b> humanos comuns causam infecções respiratórias brandas a moderadas de curta duração. Os sintomas podem envolver coriza, tosse, dor de garganta e febre. <br/><br/> Esses vírus algumas vezes podem causar infecção das vias respiratórias inferiores, como pneumonia. Esse quadro é mais comum em pessoas com doenças cardiopulmonares, com sistema imunológico comprometido ou em idosos.
