@@ -9,7 +9,6 @@ const Footer = () => {
   		<div>
         <h1>Veja mais</h1>
         <section>
-          <Link className='link' to='/pt-br'> Como anda a Dengue no Brasil</Link>
           <Link className='link' to='/terms-policy'>Termos e Política do site</Link>
         </section>
       </div>

@@ -8,12 +8,6 @@ const Header = ({ page }) => {
   	<div className='header'>
   		<div>
         <Link className='link' to='/'>{page}</Link>
-        <div className='nav'>
-          <section>
-            <h1>Virus</h1>
-            <Link to='/pt-br'>Dengue</Link>
-          </section>
-        </div>
       </div>
   	</div>
 	);
