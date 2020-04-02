@@ -763,6 +763,7 @@ const Index = () => {
 				<meta name="description" content="Coronavirus. Tudo sobre o coronavirus hoje. Coronavirus casos no Brasil!" />
 				<meta name="keywords" content="coronavirus,coronavirus hoje,coronavirus casos,casos de coronavirus, sobre o coronavirus, virus" />
 				<meta name="author" content="FabioKido" />
+				<script data-ad-client="ca-pub-2798049428311849" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 			</Helmet>
 			<div className='principal' style={{ backgroundImage: `url(${Logo})` }}>
 				<h1>Coronavirus</h1>
