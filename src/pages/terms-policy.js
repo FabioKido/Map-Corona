@@ -25,7 +25,7 @@ const TermsPolicy = () => {
 						A privacidade dos visitantes é muito importante para nós e estamos empenhados em assegurá-la. Essa política e termos explicam o que fazemos com suas informações pessoais.
 					</p>
 					<p>
-						Ao usar o nosso site, você consente a coleção e uso de dados pessoais descritos abaixo.
+						Ao usar o coronavirusincidents.netlify.com, você consente a coleção e uso de dados pessoais descritos abaixo.
 					</p>
 				</div>
 				<div className='parag'>
@@ -42,19 +42,19 @@ const TermsPolicy = () => {
 				<div className='parag'>
 					<h1>Política de privacidade</h1>
 					<p>
-						O site pode utilizar cookies e/ou web beacons quando um usuário tem acesso às páginas. Os cookies que podem ser utilizados associam-se (se for o caso) unicamente com o navegador de um determinado computador.
+						O coronavirusincidents.netlify.com pode utilizar cookies e/ou web beacons quando um usuário tem acesso às páginas. Os cookies que podem ser utilizados associam-se (se for o caso) unicamente com o navegador de um determinado computador.
           </p>
 					<p>
 						Cookies são pequenos arquivos de texto colocados em sua máquina para ajudar o website a prover uma melhor experiência do usuário. Em geral, cookies armazenam preferências do usuário, armazenam informação de coisas como carrinhos de compras e provêem dados do usuári anonimamente à aplicações de terceiros como o Google Analytics. Por via de regra, cookies melhoram a experiência de navegação. No entanto, você pode preferir desabilitar os cookies desse website ou de outros. A maneira mais eficaz de fazer isso é desabilitando cookies no seu navegador. Sugerimos você procurar a seção Ajuda do seu navegador para isso.
           </p>
 					<p>
-						Os cookies que são utilizados no site podem ser instalados pelo mesmo, os quais são originados dos distintos servidores operados por este, ou a partir dos servidores de terceiros que prestam serviços e instalam cookies e/ou web beacons (por exemplo, os cookies que são empregados para prover serviços de publicidade ou certos conteúdos através dos quais o usuário visualiza a publicidade ou conteúdos em tempo pré determinados). O usuário poderá pesquisar o disco rígido de seu computador conforme instruções do próprio navegador.
+						Os cookies que são utilizados no coronavirusincidents.netlify.com podem ser instalados pelo mesmo, os quais são originados dos distintos servidores operados por este, ou a partir dos servidores de terceiros que prestam serviços e instalam cookies e/ou web beacons (por exemplo, os cookies que são empregados para prover serviços de publicidade ou certos conteúdos através dos quais o usuário visualiza a publicidade ou conteúdos em tempo pré determinados). O usuário poderá pesquisar o disco rígido de seu computador conforme instruções do próprio navegador.
 					</p>
 					<p>
 					Usuário tem a possibilidade de configurar seu navegador para ser avisado, na tela do computador, sobre a recepção dos cookies e para impedir a sua instalação no disco rígido. As informações pertinentes a esta configuração estão disponíveis em instruções e manuais do próprio navegador.
           </p>
 					<p>
-						Usamos empresas de publicidade de terceiros para veicular anúncios durante a sua visita ao site. Essas empresas podem usar informações (que não incluem o seu nome, endereço, endereço de e-mail ou número de telefone) sobre suas visitas a este e a outros websites a fim de exibir anúncios relacionados a produtos e serviços de seu interesse. Para obter mais informações sobre essa prática e saber como impedir que as empresas utilizem esses dados, <a rel='noopener noreferrer' href='https://policies.google.com/technologies/ads?hl=pt-BR' target='_blank'>clique aqui</a>.
+						Usamos empresas de publicidade de terceiros para veicular anúncios durante a sua visita ao coronavirusincidents.netlify.com. Essas empresas podem usar informações (que não incluem o seu nome, endereço, endereço de e-mail ou número de telefone) sobre suas visitas a este e a outros websites a fim de exibir anúncios relacionados a produtos e serviços de seu interesse. Para obter mais informações sobre essa prática e saber como impedir que as empresas utilizem esses dados, <a rel='noopener noreferrer' href='https://policies.google.com/technologies/ads?hl=pt-BR' target='_blank'>clique aqui</a>.
 					</p>
 				</div>
         <div className='parag'>
@@ -75,7 +75,7 @@ const TermsPolicy = () => {
 						Geolocalização: Amazon Web Services. Dados pessoais: país do usuário.
 					</p>
 					<p>
-						Segurança. Para propósitos de segurança e garantir que este serviço esteja disponível para todos os seus usuários, o site usa softwares de monitoramento de tráfego da rede para tentar identificar tentativas de acessos não autorizadas ou que possam causar danos.
+						Segurança. Para propósitos de segurança e garantir que este serviço esteja disponível para todos os seus usuários, o coronavirusincidents.netlify.com usa softwares de monitoramento de tráfego da rede para tentar identificar tentativas de acessos não autorizadas ou que possam causar danos.
 					</p>
 				</div>
 				<div className='parag'>
@@ -87,19 +87,19 @@ const TermsPolicy = () => {
         <div className='parag'>
 					<h1>Links para websites de terceiros ou recursos</h1>
 					<p>
-						O nosso site contém links para outros websites. Se você usar links para acessar outros sites, seu navegador será redirecionados para outros sites que podem ter seus próprios termos de uso e política de privacidade. O nosso site não é responsável pelo conteúdo, informação, serviços, produtos e anúncios apresentados em outros websites. Você deve acessá-los por seu próprio risco. Os links não constituem apoio pelo O nosso site de outros websites ou recursos, conteúdo, informação, serviços e produtos. O nosso site somente oferece esses links por conveniência. O nosso site não aceita responsabilidade pelo conteúdo ou conduta de outros websites.
+						O nosso coronavirusincidents.netlify.com contém links para outros websites. Se você usar links para acessar outros sites, seu navegador será redirecionados para outros sites que podem ter seus próprios termos de uso e política de privacidade. O nosso coronavirusincidents.netlify.com não é responsável pelo conteúdo, informação, serviços, produtos e anúncios apresentados em outros websites. Você deve acessá-los por seu próprio risco. Os links não constituem apoio pelo O coronavirusincidents.netlify.com de outros websites ou recursos, conteúdo, informação, serviços e produtos. O coronavirusincidents.netlify.com somente oferece esses links por conveniência. O coronavirusincidents.netlify.com não aceita responsabilidade pelo conteúdo ou conduta de outros websites.
           </p>
 				</div>
 				<div className='parag'>
 					<h1>Armazenamento de dados</h1>
 					<p>
-						O site usa fornecedores de terceiros e parceiros de hospedagem para prover o hardware, software, rede, armazenamento e tecnologias relacionadas necessárias para manter os serviços de site. O site é proprietário do código, banco de dados e todos os direitos das aplicações do site.
+						O coronavirusincidents.netlify.com usa fornecedores de terceiros e parceiros de hospedagem para prover o hardware, software, rede, armazenamento e tecnologias relacionadas necessárias para manter os serviços do coronavirusincidents.netlify.com. O coronavirusincidents.netlify.com é proprietário do código, banco de dados e todos os direitos das aplicações do coronavirusincidents.netlify.com.
           </p>
 				</div>
 				<div className='parag'>
 					<h1>Segurança de informação</h1>
 					<p>
-						Nós tomamos precauções para garantir a segurança das suas informações pessoais. No entanto, não podemos garantir que hackers ou pessoas não autorizadas consigam acesso à suas informações pessoais mesmo com nossos esforços. Você deve notar que ao usar os serviços do site, suas informações irão passar por infraestrutura de terceiros que não estão no nosso controle.
+						Nós tomamos precauções para garantir a segurança das suas informações pessoais. No entanto, não podemos garantir que hackers ou pessoas não autorizadas consigam acesso à suas informações pessoais mesmo com nossos esforços. Você deve notar que ao usar os serviços do coronavirusincidents.netlify.com, suas informações irão passar por infraestrutura de terceiros que não estão no nosso controle.
           </p>
 					<p>
 						Nós não podemos proteger, nem essa política de privacidade pode se aplicar para, qualquer informação que você transmita para nossos usuários. Você nunca deve transmitir informações pessoais ou que possam identificá-lo aos outros usuários.
@@ -123,7 +123,7 @@ const TermsPolicy = () => {
 				<div className='parag'>
 					<h1>Alterações</h1>
 					<p>
-						Poderemos atualizar esta política de privacidade e termos de tempos em tempos, portanto você deverá verificá-la periodicamente. Se alterações substanciais forem feitas, notificaremos você sobre tais alterações através de uma nota proeminente no site.
+						Poderemos atualizar esta política de privacidade e termos de tempos em tempos, portanto você deverá verificá-la periodicamente. Se alterações substanciais forem feitas, notificaremos você sobre tais alterações através de uma nota proeminente no coronavirusincidents.netlify.com.
           </p>
 				</div>
 				<div className='parag'>
