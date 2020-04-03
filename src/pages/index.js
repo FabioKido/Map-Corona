@@ -13,39 +13,39 @@ const Index = () => {
 	let Cases = [
 	    {
 	      "pais": "Estados Unidos",
-	      "casos": "140.886"
+	      "casos": "243.453"
 	    },
 	    {
 	      "pais": "Itália",
-	      "casos": "97.689"
-	    },
-	    {
-	      "pais": "China",
-	      "casos":	"82.122"
+	      "casos": "115.242"
 	    },
 	    {
 	      "pais": "Espanha",
-	      "casos":	"80.110"
+	      "casos":	"112.065"
 	    },
 	    {
 	      "pais": "Alemanha",
-	      "casos":	"62.095"
+	      "casos":	"84.794"
+	    },
+	    {
+	      "pais": "China",
+	      "casos":	"82.432"
 	    },
 	    {
 	      "pais": "França",
-	      "casos":	"40.708"
+	      "casos":	"59.929"
 	    },
 	    {
 	      "pais": "Irã",
-	      "casos":	"38.309"
+	      "casos":	"50.468"
 	    },
 	    {
 	      "pais": "Reino Unido",
-	      "casos":	"19.780"
+	      "casos":	"34.173"
 	    },
 	    {
 	      "pais": "Suíça",
-	      "casos":	"14.829"
+	      "casos":	"18.827"
 	    },
 	    {
 	      "pais": "Países Baixos",
@@ -770,22 +770,23 @@ const Index = () => {
 				<div className='cont'>
 					<div className='conts'>
 						<h2>Casos</h2>
-						<h3>858,377</h3>
+						<h3>1.013.172</h3>
 					</div>
 					<div className='conts'>
-						<h2>Hoje</h2>
-						<h3>63.159</h3>
+						<h2>Mortes</h2>
+						<h3>52.986</h3>
 					</div>
 				</div>
 				<div className='cont'>
 					<div className='conts'>
-						<h2>Mortes</h2>
-						<h3>33.928</h3>
+						<h2>Hoje</h2>
+						<h3>80.552</h3>
 					</div>
 					<div className='conts'>
-						<h2>Hoje</h2>
-						<h3>3.464</h3>
+						<h2>Brasil</h2>
+						<h3>8.076</h3>
 					</div>
+					
 				</div>
 			</div>
 			<div className='content'>
