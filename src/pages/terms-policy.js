@@ -121,6 +121,12 @@ const TermsPolicy = () => {
 					</p>
 				</div>
 				<div className='parag'>
+					<h1>Coleta de informações</h1>
+					<p>
+						Os dados e informações são coletadas de diferentes entidades de saúde, como: <b>Organização Mundial da Saúde (OMS)</b>, <b><i>john hopkins hospital</i></b> e no caso do Brasil o <b>Ministério da Saúde</b>. Portanto as informações e dados são de responsabilidade dos mesmos, citados anteriormente. Colaboramos apenas com a disseminação de informações oficiais para o público comum.
+          </p>
+				</div>
+				<div className='parag'>
 					<h1>Alterações</h1>
 					<p>
 						Poderemos atualizar esta política de privacidade e termos de tempos em tempos, portanto você deverá verificá-la periodicamente. Se alterações substanciais forem feitas, notificaremos você sobre tais alterações através de uma nota proeminente no coronavirusincidents.netlify.com.
