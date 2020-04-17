@@ -770,21 +770,21 @@ const Index = () => {
 				<div className='cont'>
 					<div className='conts'>
 						<h2>Casos</h2>
-						<h3>1.013.172</h3>
+						<h3>2.152.675</h3>
 					</div>
 					<div className='conts'>
 						<h2>Mortes</h2>
-						<h3>52.986</h3>
+						<h3>143.804</h3>
 					</div>
 				</div>
 				<div className='cont'>
 					<div className='conts'>
 						<h2>Hoje</h2>
-						<h3>80.552</h3>
+						<h3>96.592</h3>
 					</div>
 					<div className='conts'>
 						<h2>Brasil</h2>
-						<h3>8.076</h3>
+						<h3>31.176</h3>
 					</div>
 					
 				</div>
